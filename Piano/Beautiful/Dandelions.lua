@@ -1,4 +1,4 @@
-bpm = 100
+bpm = 110
 rest(2, bpm)
 keypress("J", x, bpm)
 keypress("E", x, bpm)
